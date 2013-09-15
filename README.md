@@ -20,4 +20,4 @@ Thermo Analyzers Example 1 is an example that shows the user how to integrate Th
 into a larger project.   For more information, check the wiki. 
 
 ### Licensing:   
-Use it whenever and however you want. Seriously, go crazy.
+These codes are licensed under the MIT license.
