@@ -1,23 +1,24 @@
 ThermoLabVIEW
 =============
 
-LabVIEW vi's for importing ThermoScientific environmental gas analyzer data in real-time
+LabVIEW vi's for reading ThermoScientific environmental gas analyzer data in real-time through TCP/IP
 
-Written orginally for the Atmospheric Chemistry & Technology Lab at Washington U. in St. Louis   
+Written orginally for the Atmospheric Chemistry & Technology Lab at Washington U. in St. Louis.
+Includes support for LabVIEW versions 10, 11, and 12
    
 ### Authors:   
 David H Hagan    [david@davidhhagan.com]    
    
-### Included Files:   
+### Files:   
 Thermo Analyzers Example 1.vi   
 Thermo Gas Conc Read (SubVI).vi   
 Thermo Gas Conc Read Single Instrument (SubVI).vi   
    
 ### How to use   
-Thermo Gas Conc Read Single Instrument provides the basic vi needed to read from the Thermo Scientific instruments. 
-Thermo Gas Conc Read is a subvi that allows the user to provide support for multiple instruments within one vi. 
-Thermo Analyzers Example 1 is an example that shows the user how to integrate Thermo Gas Conc Read Single Instrument 
-into a larger project.   For more information, check the wiki. 
+1. Download files and save wherever you choose
+2. Load as a user-defined subVI
+3. Check wiki for help
+ 
 
 ### Licensing:   
 These codes are licensed under the MIT license.
